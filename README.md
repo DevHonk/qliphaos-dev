@@ -23,9 +23,9 @@ This operating system is developed solely for educational purposes and for fun. 
 
 ## Development
 
-* [Build instructions]()
-* [Run instructions]()
-* [Visual Studio Code]()
+* [Build instructions](https://github.com/Chaika9/qliphaos-dev/blob/master/Documentation/Instructions/Build.md)
+* [Run instructions](https://github.com/Chaika9/qliphaos-dev/blob/master/Documentation/Instructions/Run.md)
+* [Visual Studio Code](https://github.com/Chaika9/qliphaos-dev/blob/master/Documentation/Instructions/VSCode.md)
 
 ## Contribution
 

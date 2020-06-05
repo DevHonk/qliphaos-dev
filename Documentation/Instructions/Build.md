@@ -38,4 +38,4 @@ $ ./build.sh build-iso
 
 ---
 
-[Run instructions]()
+[Run instructions](https://github.com/Chaika9/qliphaos-dev/blob/master/Documentation/Instructions/Run.md)
