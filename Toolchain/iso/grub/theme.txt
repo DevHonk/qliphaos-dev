@@ -51,5 +51,5 @@ terminal-border: "0"
     width = 100%
     align = center
     color = #dedede
-    text = "https://github.com/Chaika9/QliphaOS-Dev"
+    text = "https://github.com/Chaika9/qliphaos-dev"
 }
