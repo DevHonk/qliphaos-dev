@@ -1,0 +1,13 @@
+# Object files
+*.o
+*.elf
+
+# Linker files
+*.d
+
+# Result files
+*.iso
+*.img
+
+# Build folders
+Toolchain/build/

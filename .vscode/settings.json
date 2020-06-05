@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+    },
+    "files.exclude": {
+        "**/*.o": true,
+        "**/*.elf": true,
+        "**/*.d": true
+    },
+    "files.trimTrailingWhitespace": true
+}
