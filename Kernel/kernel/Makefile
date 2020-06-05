@@ -1,4 +1,5 @@
-SRC = 	src/kernel.c
+SRC = 	src/kassert.c \
+		src/kernel.c
 
 OBJ = $(SRC:.c=.o)
 OBJ_S = $(SRC:.S=.o)

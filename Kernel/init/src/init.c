@@ -7,6 +7,7 @@
 
 #include <kernel/multiboot.h>
 #include <kernel/kernel.h>
+#include <kernel/kassert.h>
 #include <kernel/types.h>
 
 /**
@@ -19,5 +20,6 @@
  **/
 void init_i386(multiboot_info_t *mb_info, u32 mb_mag, u32 esp)
 {
+    kassert(mb_mag == MULTIBOOT_EAX_MAGIC && "Multiboot not detect!");
     init_kernel(mb_info, esp);
 }
