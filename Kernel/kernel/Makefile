@@ -1,4 +1,6 @@
-SRC = 	src/kassert.c \
+SRC = 	src/io/io_in.c \
+		src/io/io_out.c \
+		src/kassert.c \
 		src/kernel.c
 
 OBJ = $(SRC:.c=.o)
